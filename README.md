@@ -14,6 +14,5 @@ Asynchronous + Database<br>
 Pictures<br>
 
 <img src="https://github.com/MasadMJ/SmartWeatherAP/blob/main/1.png" width="500" height="600"><br>
-<img src="https://github.com/MasadMJ/SmartWeatherAP/blob/main/1.png" width="500" height="600"><br>
 <img src="https://github.com/MasadMJ/SmartWeatherAP/blob/main/2.png" width="500" height="600"><br>
 <img src="https://github.com/MasadMJ/SmartWeatherAP/blob/main/3.png" width="500" height="600">
